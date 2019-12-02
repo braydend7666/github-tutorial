@@ -23,7 +23,7 @@ git push -u origin master
 ```
 ---
 ## Workflow & Commands
-The basic workflow of git is (DO AT HOME)
+The basic workflow of git is add commit push! Add commit push! Again and again! Right now this sounds like gibberish! But I will explain. Think of a photographer taking a picture. ```git add``` The photographer puts a person in the camera's field of view. You add a change to the staging area. ```git commit``` the picture is taken and saved. Whatever was in the staging area is saved and taken off the staging area. ```git push``` The photographer sends the picture away. What was commited is sent to github. 
 
 
 Here are some commands you will need to know:
