@@ -35,3 +35,4 @@ Here are some commands you will need to know:
 
 ---
 ## Rolling Back Changes
+We all are human, so we make mistakes. Somtimes we want to go back to a previous commit. This is where Git really shines, as I said earlier, Git is a version control system. This means you can undo changes when you want by using a simple command. ```git revert HEAD```. This will undo your latest commit! So if you have a change of heart you can undo what you did! But what if you want to redo a past commit after you commited more? First use ```git log``` and copy the very long code ex.  ```7310b6c60411e2c41c9cc41659bdf62f73d861ab```. Then put in the command line ```git revert 7310b6c60411e2c41c9cc41659bdf62f73d861ab```. 
