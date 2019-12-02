@@ -27,11 +27,11 @@ The basic workflow of git is (DO AT HOME)
 
 
 Here are some commands you will need to know:
-*```mkdir``` - makes a directory  
-*```rmdir``` - removes a directory   
-*```mv file-name.txt repo-name``` - moves a file          
-*```touch file.txt``` - makes a file       
-*```c9 file.txt``` - opens a file      
+* ```mkdir``` - makes a directory  
+* ```rmdir``` - removes a directory   
+* ```mv file-name.txt repo-name``` - moves a file          
+* ```touch file.txt``` - makes a file       
+* ```c9 file.txt``` - opens a file      
 
 ---
 ## Rolling Back Changes
